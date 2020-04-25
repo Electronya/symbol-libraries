@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SJ-435107
+D CONN JACK 4COND 3.5MM R/A
+K audio jack receptacle stereo headphones TRRS connector
+F L:\JudeBake\Datasheet\PhoneJack\sj-435107.pdf
+$ENDCMP
+#
+#End Doc Library

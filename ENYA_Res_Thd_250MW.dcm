@@ -1,0 +1,183 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100K_1.78X3.3_250MW
+D RES 100K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 10K_1.78X3.3_250MW
+D RES 10K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 150K_1.78X3.3_250MW
+D RES 150K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K1_2.4X6.3_250MW
+D RES 1.1K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K3_1.78X3.3_250MW
+D RES 1.3K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K5_1.78X3.3_250MW
+D RES 1.5K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K78_2.4X6.3_250MW
+D RES 1.78K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K8_1.78X3.3_250MW
+D RES 1.8K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K96_2.4X6.3_250MW
+D RES 1.96K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K_1.78X3.3_250MW
+D RES 1K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1M_1.78X3.3_250MW
+D RES 1M OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 220R_1.78X3.3_250MW
+D RES 220 OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 22K_1.78X3.3_250MW
+D RES 22K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 270R_1.78X3.3_250MW
+D RES 270 OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2K15_2.4X6.3_250MW
+D RES 2.15K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2K2_1.78X3.3_250MW
+D RES 2.2K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2K_1.78X3.3_250MW
+D RES 2K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 2M7_2.4X6.3_250MW
+D RES 2.7M OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 330R_1.78X3.3_250MW
+D RES 330 OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 3K48_2.4X6.3_250MW
+D RES 3.48K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 3K83_2.4X6.3_250MW
+D RES 3.83K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 560R_1.78X3.3_250MW
+D RES 560 OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 5K62_2.4X6.3_250MW
+D RES 5.62K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 5K6_1.78X3.3_250MW
+D RES 5.6K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 620R_1.78X3.3_250MW
+D RES 620 OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 6K19_2.4X6.3_250MW
+D RES 6.19K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 6K8_1.78X3.3_250MW
+D RES 6.8K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 750K_1.78X3.3_250MW
+D RES 750K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 7K5_1.78X3.3_250MW
+D RES 7.5K OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 820R_1.78X3.3_250MW
+D RES 820 OHM 1/4W 1% AXIAL
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

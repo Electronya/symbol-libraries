@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10UF_TANT_1206_16V
+D CAP TANT 10UF 10% 16V 1206
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP 4.7uF_CER_0805_16V
+D CAP CER 4.7UF 16V X7R 0805
+K cap, capacitor, cer
+$ENDCMP
+#
+#End Doc Library

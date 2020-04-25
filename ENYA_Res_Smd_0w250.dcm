@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 137R_1206_250MW
+D RES SMD 137 OHM 1% 1/4W 1206
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

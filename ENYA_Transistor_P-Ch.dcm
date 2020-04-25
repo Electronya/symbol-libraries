@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG2305UX-7
+D MOSFET P-CH 20V 4.2A SOT23
+K P-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf
+$ENDCMP
+#
+#End Doc Library

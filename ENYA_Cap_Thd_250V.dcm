@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100nF_MPOL_10.3Lx5.8Wx9.4H_250V
+D CAP FILM 0.1UF 10% 250VDC RADIAL
+K cap, capacitor, poly
+F ~
+$ENDCMP
+#
+$CMP 10nF_MPOL_10.3Lx4.3Wx8.4H_250V
+D CAP FILM 10000PF 10% 250VDC RAD
+K cap, capacitor, poly
+F ~
+$ENDCMP
+#
+$CMP 1uF_MPOL_18.5Lx7.4Wx16H_250V
+D CAP FILM 1UF 10% 250VDC RADIAL
+K cap, capacitor, poly
+F ~
+$ENDCMP
+#
+$CMP 470nF_MPOL_18.5Lx5.3W_13.5H_250V
+D CAP FILM 0.47UF 10% 250VDC RAD
+K cap, capacitor, poly
+F ~
+$ENDCMP
+#
+#End Doc Library

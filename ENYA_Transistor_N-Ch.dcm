@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SSM3K35AFS,LF
+D MOSFET N-CHANNEL 20V 250MA SSM
+K N-Channel MOSFET
+F L:\JudeBake\Datasheet\Transistor\SSM3K35AFS_datasheet_en_20170217.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L2293QTR
+D IC BRIDGE DRIVER ON/OFF 32VFQFPN
+K motor, relay, driver
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/group2/86/3b/3e/67/62/fe/47/96/CD00204113/files/CD00204113.pdf/jcr:content/translations/en.CD00204113.pdf
+$ENDCMP
+#
+#End Doc Library

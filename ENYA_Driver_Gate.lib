@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LTC1693-5
+#
+DEF LTC1693-5 U 0 20 Y Y 1 F N
+F0 "U" -175 250 50 H V C CNN
+F1 "LTC1693-5" 225 -250 50 H V C CNN
+F2 "Package_SO:MSOP-8_3x3mm_P0.65mm" 100 0 50 H I C CNN
+F3 "" 100 0 50 H I C CNN
+F4 "Linear Technology/Analog Devices" 0 0 50 H I C CNN "Manufacturer"
+F5 "LTC1693-5CMS8#PBF" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "LTC1693-5CMS8#PBF-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+DRAW
+S -200 200 200 -200 0 1 0 f
+X IN 1 -300 100 100 R 50 50 1 1 I
+X PH 3 -300 -100 100 R 50 50 1 1 I
+X GND 4 0 -300 100 U 50 50 1 1 W
+X OUT 7 300 0 100 L 50 50 1 1 O
+X VCC 8 0 300 100 D 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

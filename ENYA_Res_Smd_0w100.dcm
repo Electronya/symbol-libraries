@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R_0603_100MW
+D RES SMD 0 OHM JUMPER 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 10K_0603_100MW
+D RES SMD 10K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 1K_0603_100MW
+D RES SMD 1K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 22R6_0603_100MW
+D RES SMD 22.6 OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 3K9_0603_100MW
+D RES SMD 3.9K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT24C32
+D IC EEPROM 32K I2C 1MHZ 8SOIC
+K I2C Serial EEPROM
+F L:\JudeBake\Datasheet\EEPROM
+$ENDCMP
+#
+#End Doc Library

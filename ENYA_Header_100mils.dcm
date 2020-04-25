@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_2x20_FEM_100PITCH_635INS_280POST
+D CONN SOCKET 40POS 0.1 GOLD PCB
+F L:\JudeBake\Datasheet\Header\esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148W-7-F
+D DIODE GEN PURP 100V 300MA SOD123
+K diode
+F https://www.diodes.com/assets/Datasheets/ds30086.pdf
+$ENDCMP
+#
+$CMP 1N4148_DO-35
+D DIODE GEN PURP 100V 200MA DO35
+K diode
+F https://www.onsemi.com/pub/Collateral/1N914-D.PDF
+$ENDCMP
+#
+#End Doc Library

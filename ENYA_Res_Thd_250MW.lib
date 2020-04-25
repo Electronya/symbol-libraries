@@ -1,0 +1,634 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 100K_1.78X3.3_250MW
+#
+DEF 100K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "100K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC100K" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S100KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "100K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10K_1.78X3.3_250MW
+#
+DEF 10K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC10K0" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S10KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "10K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 150K_1.78X3.3_250MW
+#
+DEF 150K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "150K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC150K" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S150KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "150K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K1_2.4X6.3_250MW
+#
+DEF 1K1_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K1_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "MFR-25FBF52-1K1" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "1.10KXBK-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K1" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K3_1.78X3.3_250MW
+#
+DEF 1K3_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K3_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC1K30" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S1.3KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K3" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K5_1.78X3.3_250MW
+#
+DEF 1K5_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K5_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC1K50" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S1.5KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K5" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K78_2.4X6.3_250MW
+#
+DEF 1K78_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K78_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "MFR-25FBF52-1K78" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "1.78KXBK-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K78" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K8_1.78X3.3_250MW
+#
+DEF 1K8_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K8_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC1K80" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S1.8KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K8" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K96_2.4X6.3_250MW
+#
+DEF 1K96_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K96_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "MFR-25FBF52-1K96" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "1.96KXBK-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K96" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1K_1.78X3.3_250MW
+#
+DEF 1K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC1K00" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S1KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M_1.78X3.3_250MW
+#
+DEF 1M_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1M_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC1M00" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S1MCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "1M" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 220R_1.78X3.3_250MW
+#
+DEF 220R_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "220R_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC220R" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S220CACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "220R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 22K_1.78X3.3_250MW
+#
+DEF 22K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "22K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC22K0" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S22KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "22K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 270R_1.78X3.3_250MW
+#
+DEF 270R_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "270R_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC270R" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S270CACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "270R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K15_2.4X6.3_250MW
+#
+DEF 2K15_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2K15_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "MFR-25FBF52-2K15" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "2.15KXBK-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "2K15" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K2_1.78X3.3_250MW
+#
+DEF 2K2_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2K2_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC2K20" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S2.2KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "2K2" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2K_1.78X3.3_250MW
+#
+DEF 2K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC2K00" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S2KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "2K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 2M7_2.4X6.3_250MW
+#
+DEF 2M7_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "2M7_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "HHV-25FR-52-2M7" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "2.7MGACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "2M7" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 330R_1.78X3.3_250MW
+#
+DEF 330R_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "330R_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC330R" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S330CACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "330R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3K48_2.4X6.3_250MW
+#
+DEF 3K48_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3K48_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "MFR-25FBF52-3K48" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "3.48KXBK-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "3K48" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 3K83_2.4X6.3_250MW
+#
+DEF 3K83_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "3K83_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "MFR-25FBF52-3K83" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "3.83KXBK-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "3K83" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 560R_1.78X3.3_250MW
+#
+DEF 560R_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "560R_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC560R" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S560CACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "560R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5K62_2.4X6.3_250MW
+#
+DEF 5K62_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "5K62_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNF14FTD5K62" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "RNF14FTD5K62CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "5K62" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 5K6_1.78X3.3_250MW
+#
+DEF 5K6_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "5K6_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC5K60" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S5.6KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "5K6" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 620R_1.78X3.3_250MW
+#
+DEF 620R_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "620R_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC620R" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S620CACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "620R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6K19_2.4X6.3_250MW
+#
+DEF 6K19_2.4X6.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "6K19_2.4X6.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNF14FTD6K19" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "RNF14FTD6K19CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "6K19" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 6K8_1.78X3.3_250MW
+#
+DEF 6K8_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "6K8_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC6K80" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S6.8KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "6K8" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 750K_1.78X3.3_250MW
+#
+DEF 750K_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "750K_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC750K" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S750KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "750K" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 7K5_1.78X3.3_250MW
+#
+DEF 7K5_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "7K5_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC7K50" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S7.5KCACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "7K5" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 820R_1.78X3.3_250MW
+#
+DEF 820R_1.78X3.3_250MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "820R_1.78X3.3_250MW" 0 0 50 V I C CNN
+F2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Stackpole Electronics Inc" 0 0 50 H I C CNN "Manufacturer"
+F5 "RNMF14FTC820R" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "S820CACT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "820R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Solder_Jumper_1.3MM
+D Solder Jumper 1.3mm
+K jumper link bridge
+F ~
+$ENDCMP
+#
+#End Doc Library

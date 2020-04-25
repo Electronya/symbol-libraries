@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM318DR
+D IC OPAMP GP 1 CIRCUIT 8SOIC
+K single opamp
+F http://www.ti.com/lit/ds/symlink/lm318-n.pdf
+$ENDCMP
+#
+$CMP NE5534DR
+D IC OPAMP GP 1 CIRCUIT 8SOIC
+K single opamp
+F http://www.ti.com/lit/ds/symlink/ne5534.pdf
+$ENDCMP
+#
+#End Doc Library
