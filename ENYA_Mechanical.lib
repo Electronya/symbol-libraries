@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF Fiducial FID 0 20 Y Y 1 F N
 F0 "FID" 0 200 50 H V C CNN
 F1 "Fiducial" 0 125 50 H I C CNN
-F2 "JB_Mechanical:Fiducial_1.5mm_Mask3mm" 0 0 50 H I C CNN
+F2 "ENYA_Mechanical:Fiducial_1.5mm_Mask3mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
  Fiducial*
@@ -57,7 +57,7 @@ ENDDEF
 DEF TH-NPLTD-D5.2 MH 0 40 Y Y 1 F N
 F0 "MH" 0 125 50 H V C CNN
 F1 "TH-NPLTD-D5.2" 0 0 50 H I C CNN
-F2 "JB_Mechanical:TH-UPLTD-D5.2" 0 0 50 H I C CNN
+F2 "ENYA_Mechanical:TH-UPLTD-D5.2" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 C 0 0 50 1 1 50 N

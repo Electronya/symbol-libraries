@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 3214W-1-502E_5K_250MW POT 0 40 Y N 1 F N
 F0 "POT" -175 0 50 V V C CNN
 F1 "3214W-1-502E_5K_250MW" -100 0 50 V I C CNN
-F2 "JB_Potentiometer:Potentiometer_Bourns_3214W_Vertical" 0 0 50 H I C CNN
+F2 "ENYA_Potentiometer:Potentiometer_Bourns_3214W_Vertical" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Bourns Inc." 0 0 50 H I C CNN "Manufacturer"
 F5 "3214W-1-502E" 0 0 50 H I C CNN "Manufacturer Part Number"

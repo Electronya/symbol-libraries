@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF QEB363GR D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
 F1 "QEB363GR" 0 -150 50 H V C CNN
-F2 "JB_IrEmitter:QEB363GR" 0 200 50 H I C CNN
+F2 "ENYA_Diode_Infrared:QEB363GR" 0 200 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "ON Semiconductor" 0 0 50 H I C CNN "Manufacturer"
 F5 "QEB363GR" 0 0 50 H I C CNN "Manufacturer Part Number"

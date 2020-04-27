@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF SJ-435107 J 0 20 Y Y 1 F N
 F0 "J" 0 350 50 H V C CNN
 F1 "SJ-435107" 0 250 50 H V C CNN
-F2 "JB_Connector_Barrel_Audio:SJ-435107" 0 0 50 H I C CNN
+F2 "ENYA_Connector_Barrel_Audio:SJ-435107" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "CUI Devices" 0 0 50 H I C CNN "Manufacturer"
 F5 "SJ-435107" 0 0 50 H I C CNN "Manufacturer Part Number"
