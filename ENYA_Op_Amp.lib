@@ -34,7 +34,7 @@ F0 "U" 50 250 50 H V L CNN
 F1 "NE5534DR" 50 150 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 50 50 50 H I C CNN
 F3 "" 50 150 50 H I C CNN
-F4 "Texas Instruments" 0 0 50 H I C CNN "MAnufacturer"
+F4 "Texas Instruments" 0 0 50 H I C CNN "Manufacturer"
 F5 "NE5534DR" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "296-26239-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
