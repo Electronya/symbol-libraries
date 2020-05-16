@@ -6,4 +6,16 @@ K high side, gate, driver
 F https://www.analog.com/media/en/technical-documentation/data-sheets/16935f.pdf
 $ENDCMP
 #
+$CMP MIC4416YM4-TR
+D IC GATE DRVR LOW-SIDE SOT143
+K gate driver
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC4416-7-IttyBitty-Low-Side-MOSFET-Driver-DS20006077A.pdf
+$ENDCMP
+#
+$CMP ZXGD3009E6
+D IC GATE DRVR LOW-SIDE SOT26
+K gate driver
+F https://www.diodes.com/assets/Datasheets/ZXGD3009E6.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS565208DDCR
+D IC REG BUCK ADJ 5A TSOT23-6
+K step-down dcdc voltage regulator
+F http://www.ti.com/lit/ds/symlink/tps565208.pdf?ts=1588374494944
+$ENDCMP
+#
+#End Doc Library

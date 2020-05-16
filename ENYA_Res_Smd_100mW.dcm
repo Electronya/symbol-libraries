@@ -30,4 +30,10 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 54K9_0603_100MW
+D RES SMD 54.9K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
 #End Doc Library

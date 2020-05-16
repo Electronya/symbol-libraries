@@ -18,4 +18,16 @@ K connector
 F https://www.molex.com/pdm_docs/sd/436500315_sd.pdf
 $ENDCMP
 #
+$CMP MICROFIT_43650_MALE_1x3_SMD_RA
+D CONN HEADER SMD R/A 3POS 3MM
+K connector
+F https://www.molex.com/pdm_docs/sd/436500210_sd.pdf
+$ENDCMP
+#
+$CMP MICROFIT_43650_MALE_1x4_SMD_RA
+D CONN HEADER SMD R/A 4POS 3MM
+K connector
+F https://www.molex.com/pdm_docs/sd/436500210_sd.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D MOSFET N-CH 60V 115MA SOT-23
+K N-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+$ENDCMP
+#
+$CMP BSS138
+D MOSFET N-CH 50V 220MA SOT-23
+K N-Channel MOSFET
+F https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
+$ENDCMP
+#
+$CMP IPD30N10S3L34ATMA1
+D MOSFET N-CH 100V 30A TO252-3
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-IPD30N10S3L_34-DS-v01_01-en.pdf?fileId=db3a30431a5c32f2011a908963135956&ack=t
+$ENDCMP
+#
+$CMP RQ3E100BNTB
+D MOSFET N-CH 30V 10A HSMT8
+K N-Channel MOSFET
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rq3e100bntb-e.pdf
+$ENDCMP
+#
+$CMP SSM3K35AFS,LF
+D MOSFET N-CHANNEL 20V 250MA SSM
+K N-Channel MOSFET
+$ENDCMP
+#
+#End Doc Library
