@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF DMG2305UX-7 Q 0 20 Y N 1 F N
 F0 "Q" 200 75 50 H V L CNN
 F1 "DMG2305UX-7" 200 0 50 H V L CNN
-F2 "Package_TO_SOT_SMD:SOT-23_Handsoldering" 200 -75 50 H I L CIN
+F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
 F4 "Diodes Incorporated" 0 0 50 H I C CNN "Manufacturer"
 F5 "DMG2305UX-7" 0 0 50 H I C CNN "Manufacturer Part Number"

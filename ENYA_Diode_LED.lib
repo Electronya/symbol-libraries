@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# GRN_SMD_0603_0.3H
+#
+DEF GRN_SMD_0603_0.3H D 0 40 N N 1 F N
+F0 "D" 0 100 50 H V C CNN
+F1 "GRN_SMD_0603_0.3H" 0 -150 50 H V C CNN
+F2 "LED_SMD:LED_0603_1608Metric" 0 200 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Würth Elektronik" 0 0 50 H I C CNN "Manufacturer"
+F5 "150060GS73220" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "732-11995-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+$FPLIST
+ LED*1206*3216Metric*
+$ENDFPLIST
+DRAW
+T 0 25 0 25 0 0 0 G Normal 0 C C
+P 2 0 1 8 -50 -50 -50 50 N
+P 4 0 1 8 50 -50 50 50 -50 0 50 -50 N
+P 5 0 1 0 -120 -30 -180 -90 -150 -90 -180 -90 -180 -60 N
+P 5 0 1 0 -70 -30 -130 -90 -100 -90 -130 -90 -130 -60 N
+X K 1 -150 0 100 R 50 50 1 1 P
+X A 2 150 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

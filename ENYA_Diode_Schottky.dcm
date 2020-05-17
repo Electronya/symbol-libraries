@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B0520LW-7-F
+D DIODE SCHOTTKY 20V 500MA SOD123
+K diode Schottky
+F https://www.diodes.com/assets/Datasheets/ds30051.pdf
+$ENDCMP
+#
+#End Doc Library

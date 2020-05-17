@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 10uF_CER_1206_25V C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "10uF_CER_1206_25V" 25 -100 50 H I L CNN
-F2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" 38 -150 50 H I C CNN
+F2 "Capacitor_SMD:C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
 F5 "GRM319R61E106KA12D" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -28,7 +28,7 @@ ENDDEF
 DEF 4.7uF_CER_1206_25V C 0 10 N Y 1 F N
 F0 "C" 25 100 50 H V L CNN
 F1 "4.7uF_CER_1206_25V" 25 -100 50 H I L CNN
-F2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" 38 -150 50 H I C CNN
+F2 "Capacitor_SMD:C_1206_3216Metric" 38 -150 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "TDK Corporation" 0 0 50 H I C CNN "Manufacturer"
 F5 "C3216X7R1E475K160AC" 0 0 50 H I C CNN "Manufacturer Part Number"

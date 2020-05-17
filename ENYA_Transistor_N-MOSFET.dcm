@@ -27,6 +27,7 @@ $ENDCMP
 $CMP SSM3K35AFS,LF
 D MOSFET N-CHANNEL 20V 250MA SSM
 K N-Channel MOSFET
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=55388&prodName=SSM3K35AFS
 $ENDCMP
 #
 #End Doc Library

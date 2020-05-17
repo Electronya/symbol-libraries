@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRN_SMD_0603_0.3H
+D LED GREEN CLEAR 0603 SMD
+K IR LED
+F https://www.we-online.de/katalog/datasheet/150060GS73220.pdf
+$ENDCMP
+#
+#End Doc Library

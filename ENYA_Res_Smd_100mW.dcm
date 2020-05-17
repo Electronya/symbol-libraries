@@ -12,6 +12,12 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 180R_0603_100MW
+D RES SMD 180 OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 1K_0603_100MW
 D RES SMD 1K OHM 1% 1/10W 0603
 K R res resistor

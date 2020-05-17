@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF 0R_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "0R_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
 F5 "ERJ-3GEY0R00V" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -27,7 +27,7 @@ ENDDEF
 DEF 10K_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "10K_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
 F5 "ERJ-3EKF1002V" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -43,12 +43,33 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 180R_0603_100MW
+#
+DEF 180R_0603_100MW R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "180R_0603_100MW" 0 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
+F5 "RC0603FR-07180RL" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "311-180HRCT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "180R" 0 0 50 V V C CNN "Resistance"
+$FPLIST
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 1K_0603_100MW
 #
 DEF 1K_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "1K_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
 F5 "ERJ-3EKF1001V" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -69,7 +90,7 @@ ENDDEF
 DEF 1M_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "1M_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
 F5 "RC0603FR-071ML" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -90,7 +111,7 @@ ENDDEF
 DEF 22R6_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "22R6_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Panasonic Electronic Components" 0 0 50 H I C CNN "Manufacturer"
 F5 "ERJ-3EKF22R6V" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -111,7 +132,7 @@ ENDDEF
 DEF 3K9_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "3K9_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
 F5 "RC0603FR-073K9L" 0 0 50 H I C CNN "Manufacturer Part Number"
@@ -132,7 +153,7 @@ ENDDEF
 DEF 54K9_0603_100MW R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
 F1 "54K9_0603_100MW" 0 0 50 V I C CNN
-F2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" -70 0 50 V I C CNN
+F2 "Resistor_SMD:R_0603_1608Metric" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Yageo" 0 0 50 H I C CNN "Manufacturer"
 F5 "RC0603FR-0754K9L" 0 0 50 H I C CNN "Manufacturer Part Number"

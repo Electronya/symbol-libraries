@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CONN_1x3_MALE_100PITCH_236MATE_118POST
+D CONN HEADER VERT 3POS 2.54MM
+K connector
+F https://www.we-online.de/katalog/datasheet/6130xx11121.pdf
+$ENDCMP
+#
 $CMP CONN_2x20_FEM_100PITCH_635INS_280POST
 D CONN SOCKET 40POS 0.1 GOLD PCB
 F L:\JudeBake\Datasheet\Header\esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf

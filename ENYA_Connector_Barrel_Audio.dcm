@@ -6,4 +6,10 @@ K audio jack receptacle stereo headphones TRRS connector
 F L:\JudeBake\Datasheet\PhoneJack\sj-435107.pdf
 $ENDCMP
 #
+$CMP SJ-43514-SMT-TR
+D CONN JACK 4COND 3.5MM SMD R/A
+K audio jack receptacle stereo headphones TRRS connector
+F https://www.cuidevices.com/product/resource/sj-4351x-smt.pdf
+$ENDCMP
+#
 #End Doc Library
