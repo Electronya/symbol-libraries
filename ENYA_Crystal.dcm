@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM3_10MHz_SMD2_5.0x3.2
+D CRYSTAL 10.0000MHZ 18PF SMD
+K quartz ceramic resonator oscillator
+F https://abracon.com/Resonators/abm3.pdf
+$ENDCMP
+#
+#End Doc Library
