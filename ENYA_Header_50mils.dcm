@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FTSH-107-01-L-DV-K
+D CONN HEADER SMD 14POS 1.27MM
+K connector
+F http://suddendocs.samtec.com/catalog_english/ftsh_smt.pdf
+$ENDCMP
+#
+#End Doc Library
