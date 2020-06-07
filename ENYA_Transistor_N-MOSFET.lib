@@ -8,7 +8,7 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "2N7002" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
-F4 "ON Semiconductor" 0 0 50 H I C CNN "Manufactuer"
+F4 "ON Semiconductor" 0 0 50 H I C CNN "Manufacturer"
 F5 "2N7002" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "2N7002NCT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
@@ -42,7 +42,7 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "BSS138" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
-F4 "ON Semiconductor" 0 0 50 H I C CNN "Manufactuer"
+F4 "ON Semiconductor" 0 0 50 H I C CNN "Manufacturer"
 F5 "BSS138" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "BSS138CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
@@ -76,7 +76,7 @@ F0 "Q" 200 75 50 H V L CNN
 F1 "IPD30N10S3L34ATMA1" 200 0 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TO-252-2" 200 -75 50 H I L CIN
 F3 "" 0 0 50 H I L CNN
-F4 "Infineon Technologies" 0 0 50 H I C CNN "Manufactuer"
+F4 "Infineon Technologies" 0 0 50 H I C CNN "Manufacturer"
 F5 "IPD30N10S3L34ATMA1" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "IPD30N10S3L34ATMA1CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
