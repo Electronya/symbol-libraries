@@ -9,6 +9,7 @@ $ENDCMP
 $CMP 4.7uF_CER_0805_16V
 D CAP CER 4.7UF 16V X7R 0805
 K cap, capacitor, cer
+F ~
 $ENDCMP
 #
 #End Doc Library

@@ -95,7 +95,7 @@ F2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" -600 -1400 50 H I R CNN
 F3 "" 0 0 50 H I C CNN
 F4 "STMicroelectronics" 0 0 50 H I C CNN "Manufacturer"
 F5 "STM32F070CBT6" 0 0 50 H I C CNN "Manufacturer Part Number"
-F6 "497-15099-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F6 "497-18745-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  LQFP*7x7mm*P0.5mm*
 $ENDFPLIST
