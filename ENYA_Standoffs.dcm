@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M2.5x0.45_3MM
+D RND STANDOFF M2.5X0.45 STEEL 3MM
+K Standoff
+F https://www.we-online.de/katalog/datasheet/9774030151R.pdf
+$ENDCMP
+#
+#End Doc Library
