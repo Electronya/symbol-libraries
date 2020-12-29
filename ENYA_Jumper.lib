@@ -1,6 +1,24 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# Shunt_Jumper_100mils
+#
+DEF Shunt_Jumper_100mils JP 0 30 N N 1 F N
+F0 "JP" 0 80 50 H V C CNN
+F1 "Shunt_Jumper_100mils" 10 -60 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ SolderJumper*Bridged*
+$ENDFPLIST
+DRAW
+C -40 0 20 0 1 0 N
+C 40 0 20 0 1 0 N
+X 1 1 -100 0 40 R 50 50 0 1 P
+X 2 2 100 0 40 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
 # Solder_Jumper_1.3MM
 #
 DEF Solder_Jumper_1.3MM JP 0 30 N N 1 F N

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT9742_6V_1A
+D IC PWR SWTCH N-CHAN 1:1 TSOT23-5
+K power distribution switch
+F https://www.richtek.com/assets/product_file/RT9742/DS9742-10.pdf
+$ENDCMP
+#
+#End Doc Library

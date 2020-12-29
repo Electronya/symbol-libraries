@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H5008NLT_1GB
+D MODULE GIGABIT LAN 24SOIC 1PORT
+K Ethernet Magnetic
+F https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/1000Base-T%20Magnetics%20Modules.pdf
+$ENDCMP
+#
+#End Doc Library
