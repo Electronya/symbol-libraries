@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF DM3AT-SF-PEJM5_microSD J 0 40 Y Y 1 F N
 F0 "J" -650 700 50 H V C CNN
 F1 "DM3AT-SF-PEJM5_microSD" 650 700 50 H V R CNN
-F2 "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5" 2050 700 50 H I C CNN
+F2 "ENYA_Connector_Memory:DM3AT-SF-PEJM5_microSD" 2050 700 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
 F4 "Hirose Electric Co Ltd" 0 0 50 H I C CNN "Manufacturer"
 F5 "DM3AT-SF-PEJM5" 0 0 50 H V C CNN "Manufacturer Part Number"
