@@ -6,4 +6,10 @@ K diode Schottky
 F https://www.diodes.com/assets/Datasheets/ds30051.pdf
 $ENDCMP
 #
+$CMP BAT54C_30V_200mA_SOT-23-3
+D DIODE ARRAY SCHOTTKY 30V SOT23-3
+K diode
+F https://www.diodes.com/assets/Datasheets/ds11005.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -12,6 +12,7 @@ F4 "KEMET" 0 0 50 H I C CNN "Manufacturer"
 F5 "C324C104K5R5TA7334" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "399-13994-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "100nF" 150 -100 50 H V C CNN "Capacitance"
+F8 "50V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  C_*
 $ENDFPLIST

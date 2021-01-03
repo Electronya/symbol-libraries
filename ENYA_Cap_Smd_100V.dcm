@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 22nF_CER_0805_100V
+D CAP CER 0.022UF 100V X7R 0805
+K cap, capacitor, cer
+F ~
+$ENDCMP
+#
+#End Doc Library

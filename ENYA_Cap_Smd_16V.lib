@@ -12,6 +12,7 @@ F4 "KEMET" 0 0 50 H I C CNN "Manufacturer"
 F5 "T491A106K016AT" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "399-8269-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "10uF" 125 -100 50 H V C CNN "Capacitance"
+F8 "16V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  CP_*
 $ENDFPLIST
@@ -36,6 +37,7 @@ F4 "Samsung Electro-Mechanics" 0 0 50 H I C CNN "Manufacturer"
 F5 "CL21B475KOFNNNE" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "1276-2873-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "4.7uF" 150 -100 50 H V C CNN "Capacitance"
+F8 "16V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  C_*
 $ENDFPLIST

@@ -18,4 +18,10 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP 22pF_CER_0603_50V
+D CAP CER 22PF 50V X7R 0603
+K cap capacitor
+F ~
+$ENDCMP
+#
 #End Doc Library

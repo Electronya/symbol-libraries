@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP EMC2301_MSOP-8
+D IC MOTOR DRIVER 3V-3.6V 8MSOP
+K fan controller
+F https://ww1.microchip.com/downloads/en/DeviceDoc/2301.pdf
+$ENDCMP
+#
 $CMP L2293QTR
 D IC BRIDGE DRIVER ON/OFF 32VFQFPN
 K motor, relay, driver

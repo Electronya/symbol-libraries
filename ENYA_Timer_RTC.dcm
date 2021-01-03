@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCF85063A_SOIC-8
+D IC RTC CLK/CALENDAR I2C 8SO
+K I2C RTC Clock Calendar
+F https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf
+$ENDCMP
+#
+#End Doc Library

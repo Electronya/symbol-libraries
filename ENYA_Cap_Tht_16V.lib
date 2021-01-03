@@ -12,6 +12,7 @@ F4 "Nichicon" 0 0 50 H I C CNN "Manufacturer"
 F5 "USW1C101MDD" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "493-16041-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "100uF" 125 -100 50 H V C CNN "Capacitance"
+F8 "16V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  CP_*
 $ENDFPLIST

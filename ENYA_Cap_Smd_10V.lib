@@ -12,6 +12,7 @@ F4 "TDK Corporation" 0 0 50 H I C CNN "Manufacturer"
 F5 "C1608X5R1A226M080AC" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "445-9077-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "22uF" 150 -100 50 H V C CNN "Capacitance"
+F8 "10V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  C_*
 $ENDFPLIST

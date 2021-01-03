@@ -11,4 +11,9 @@ D CONN SOCKET 40POS 0.1 GOLD PCB
 F L:\JudeBake\Datasheet\Header\esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf
 $ENDCMP
 #
+$CMP CONN_2x20_MALE_100PITCH_120POST_230MATING
+D CONN HEADER VERT 40POS 2.54MM
+F https://drawings-pdf.s3.amazonaws.com/11636.pdf
+$ENDCMP
+#
 #End Doc Library

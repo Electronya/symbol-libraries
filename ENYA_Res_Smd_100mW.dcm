@@ -42,14 +42,32 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 2K2_0603_100MW
+D RES SMD 2.2K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 30K_0603_100MW
 D RES SMD 30K OHM 1% 1/10W 0603
 K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 36K_0603_100MW
+D RES SMD 36K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 3K9_0603_100MW
 D RES SMD 3.9K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 510K_0603_100MW
+D RES SMD 510K OHM 1% 1/10W 0603
 K R res resistor
 F ~
 $ENDCMP

@@ -12,6 +12,7 @@ F4 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
 F5 "GRM319R61E106KA12D" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "490-5525-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "10uF" 150 -100 50 H V C CNN "Capacitance"
+F8 "25V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  C_*
 $ENDFPLIST
@@ -34,6 +35,7 @@ F4 "TDK Corporation" 0 0 50 H I C CNN "Manufacturer"
 F5 "C3216X7R1E475K160AC" 0 0 50 H I C CNN "Manufacturer Part Number"
 F6 "445-1606-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 F7 "4.7uF" 150 -100 50 H V C CNN "Capacitance"
+F8 "25V" 0 0 50 H V C CNN "Voltage Rating"
 $FPLIST
  C_*
 $ENDFPLIST

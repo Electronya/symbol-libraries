@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR2032_Retainer
+D BATTERY RETAINER COIN 20MM SMD
+K battery cell
+F https://www.memoryprotectiondevices.com/datasheets/BK-912-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
