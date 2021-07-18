@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX33054E_SOIC-8
+D IC TRANSCEIVER FULL 1/1 8SOIC
+K CAN Driver
+F https://datasheets.maximintegrated.com/en/ds/MAX33053E-MAX33054E.pdf
+$ENDCMP
+#
 $CMP MCP2515_TSSOP-20
 D IC CAN CONTROLLER W/SPI 20TSSOP
 K CAN Controller SPI

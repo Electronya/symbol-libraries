@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 60R4_0805_125MW
+D RES SMD 60.4 OHM JUMPER 1/8W 0805
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

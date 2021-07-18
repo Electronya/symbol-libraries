@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B82724J8252N040_2.5A_22mH
+D Common Mode Choke
+K EMI filter
+F https://www.tdk-electronics.tdk.com/inf/30/ds/B82724J8xN.pdf?ref_disty=digikey
+$ENDCMP
+#
+#End Doc Library

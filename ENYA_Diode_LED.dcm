@@ -12,4 +12,10 @@ K RED LED
 F https://www.we-online.de/katalog/datasheet/150060RS75000.pdf
 $ENDCMP
 #
+$CMP SK6812RGBW-NW_5050
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+$ENDCMP
+#
 #End Doc Library
