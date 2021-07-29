@@ -8,7 +8,7 @@ F0 "TR" -400 800 50 H V L CNN
 F1 "H5008NLT_1GB" 125 800 50 H I C CNN
 F2 "ENYA_Transformer_Pulse:Transformer_Pulse_H5008" -5 -1295 50 H I C CNN
 F3 "" -5 -1295 50 H I C CNN
-F4 "Pulse Electronics Network" 0 0 50 H I C CNN "Maufacturer"
+F4 "Pulse Electronics Network" 0 0 50 H I C CNN "Manufacturer"
 F5 "H5008NLT" 225 -800 50 H V C CNN "Manufacturer Part Number"
 F6 "553-1923-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST

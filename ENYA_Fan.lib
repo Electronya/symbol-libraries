@@ -10,7 +10,7 @@ F2 "Connector:FanPinHeader_1x04_P2.54mm_Vertical" 0 10 50 H I C CNN
 F3 "" 0 10 50 H I C CNN
 F4 "Molex" 0 0 50 H I C CNN "Manufacturer"
 F5 "0470531000" 0 0 50 H V C CNN "Manufacturer Part Number"
-F6 "CONN HEADER VERT 4POS 2.54MM" 0 0 50 H I C CNN "Digi-Key Part Number"
+F6 "WM4330-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  FanPinHeader*P2.54mm*Vertical*
  PinHeader*P2.54mm*Vertical*

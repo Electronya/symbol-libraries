@@ -10,7 +10,7 @@ F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 800 -350 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "NXP USA Inc." 0 0 50 H I C CNN "Manufacturer"
 F5 "PCF85063AT/AY" 0 0 50 H V C CNN "Manufacturer Part Number"
-F6 "IC RTC CLK/CALENDAR I2C 8SO" 0 0 50 H I C CNN "Digi-Key Part Number"
+F6 "568-12403-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  SOIC*3.9x4.9mm*P1.27mm*
 $ENDFPLIST
