@@ -1,6 +1,29 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
+# 100nF_CER_0402_16V
+#
+DEF 100nF_CER_0402_16V C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "100nF_CER_0402_16V" 25 -100 50 H I L CNN
+F2 "Capacitor_SMD:C_0402_1005Metric" 38 -150 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+F4 "Murata Electronics" 0 0 50 H I C CNN "Manufacturer"
+F5 "GCM155R71C104KA55D" 0 0 50 H I C CNN "Manufacturer Part Number"
+F6 "490-4759-1-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
+F7 "100nF" 150 -100 50 H V C CNN "Capacitance"
+F8 "16V" 0 0 50 H V C CNN "Voltage Rating"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # 10UF_TANT_1206_16V
 #
 DEF 10UF_TANT_1206_16V C 0 10 N N 1 F N

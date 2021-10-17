@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 560UF_ELEC_6.3Dx8H_6.3V
+D CAP ALUM POLY 560UF 20% 6.3V SMD
+K cap capacitor
+F ~
+$ENDCMP
+#
+#End Doc Library

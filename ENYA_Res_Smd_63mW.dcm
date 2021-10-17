@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 110K_0402_63MW
+D RES SMD 100K OHM 1% 1/10W 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

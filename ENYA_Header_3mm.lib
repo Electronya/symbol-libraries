@@ -67,7 +67,7 @@ F1 "MICROFIT_43045_MALE_2x12" 50 -700 50 H I C CNN
 F2 "ENYA_Header_3mm:MICROFIT_43045_MALE_2x12" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Molex" 0 0 50 H I C CNN "Manufacturer"
-F5 "0430452412" 0 0 50 H I C CNN "Manufacturer Part Number"
+F5 "0430452412" 0 0 50 H V C CNN "Manufacturer Part Number"
 F6 "WM4716-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  Connector*:*_2x??_*
@@ -133,7 +133,7 @@ F1 "MICROFIT_43045_MALE_2x6" 50 -400 50 H I C CNN
 F2 "ENYA_Header_3mm:MICROFIT_43045_MALE_2x6" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Molex" 0 0 50 H I C CNN "Manufacturer"
-F5 "0430451214" 0 0 50 H I C CNN "Manufacturer Part Number"
+F5 "0430451214" 0 0 50 H V C CNN "Manufacturer Part Number"
 F6 "WM1800-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  Connector*:*_2x??_*
@@ -171,11 +171,11 @@ ENDDEF
 #
 DEF MICROFIT_43650_MALE_1x3 J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
-F1 "MICROFIT_43650_MALE_1x3" 0 -200 50 H V C CNN
+F1 "MICROFIT_43650_MALE_1x3" 0 -200 50 H I C CNN
 F2 "ENYA_Header_3mm:MICROFIT_43650_MALE_1x3" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Molex" 0 0 50 H I C CNN "Manufacturer"
-F5 "0436500315" 0 0 50 H I C CNN "Manufacturer Part Number"
+F5 "0436500315" 0 0 50 H V C CNN "Manufacturer Part Number"
 F6 "WM1918-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  Connector*:*_1x??_*
@@ -199,7 +199,7 @@ F1 "MICROFIT_43650_MALE_1x3_SMD_RA" 0 -200 50 H V C CNN
 F2 "ENYA_Header_3mm:MICROFIT_43650_MALE_1x3_SMD_RA" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Molex" 0 0 50 H I C CNN "Manufacturer"
-F5 "0436500309" 0 0 50 H I C CNN "Manufacturer Part Number"
+F5 "0436500309" 0 0 50 H V C CNN "Manufacturer Part Number"
 F6 "WM1881CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  Connector*:*_1x??_*
@@ -223,7 +223,7 @@ F1 "MICROFIT_43650_MALE_1x4_SMD_RA" 0 -300 50 H V C CNN
 F2 "ENYA_Header_3mm:MICROFIT_43650_MALE_1x4_SMD_RA" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "Molex" 0 0 50 H I C CNN "Manufacturer"
-F5 "0436500409" 0 0 50 H I C CNN "Manufacturer Part Number"
+F5 "0436500409" 0 0 50 H V C CNN "Manufacturer Part Number"
 F6 "WM1882CT-ND" 0 0 50 H I C CNN "Digi-Key Part Number"
 $FPLIST
  Connector*:*_1x??_*
