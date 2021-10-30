@@ -12,6 +12,12 @@ K N-Channel MOSFET
 F https://www.onsemi.com/pub/Collateral/BSS138-D.PDF
 $ENDCMP
 #
+$CMP DMN26D0UFB4-7
+D MOSFET N-CH 20V 230MA 3DFN
+K N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMN26D0UFB4.pdf
+$ENDCMP
+#
 $CMP IPD30N10S3L34ATMA1
 D MOSFET N-CH 100V 30A TO252-3
 K N-Channel MOSFET
