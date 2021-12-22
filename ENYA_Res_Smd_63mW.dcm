@@ -6,6 +6,12 @@ K R res resistor
 F ~
 $ENDCMP
 #
+$CMP 10K_0402_63MW
+D RES SMD 10K OHM 1% 1/16W 0402
+K R res resistor
+F ~
+$ENDCMP
+#
 $CMP 110K_0402_63MW
 D RES SMD 110K OHM 1% 1/16W 0402
 K R res resistor
@@ -14,6 +20,12 @@ $ENDCMP
 #
 $CMP 1M_0402_63MW
 D RES SMD 1M OHM 1% 1/16W 0402
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP 47K_0402_63MW
+D RES SMD 47K OHM 1% 1/16W 0402
 K R res resistor
 F ~
 $ENDCMP

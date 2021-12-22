@@ -12,8 +12,14 @@ K quartz ceramic resonator oscillator
 F https://abracon.com/Resonators/abm3.pdf
 $ENDCMP
 #
-$CMP ABS07_32.768kHz_SMD2_3.2x1.5
+$CMP ABS07_32.768kHz_12.5pF_SMD2_3.2x1.5
 D CRYSTAL 32.7680KHZ 12.5PF SMD
+K quartz ceramic resonator oscillator
+F https://abracon.com/Resonators/ABS07.pdf
+$ENDCMP
+#
+$CMP ABS07_32.768kHz_9pF_SMD2_3.2x1.5
+D CRYSTAL 32.7680KHZ 9PF SMD
 K quartz ceramic resonator oscillator
 F https://abracon.com/Resonators/ABS07.pdf
 $ENDCMP

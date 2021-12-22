@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MCP79410_MSOP-8
+D IC RTC CLK/CALENDAR I2C 8-MSOP
+K I2C RTC Clock Calendar
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP79410-MCP79411-MCP79412-Battery-Backed%20I2C-RTCC-20002266J.pdf
+$ENDCMP
+#
 $CMP PCF85063A_SOIC-8
 D IC RTC CLK/CALENDAR I2C 8SO
 K I2C RTC Clock Calendar

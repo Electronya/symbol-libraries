@@ -6,6 +6,12 @@ K cap capacitor
 F ~
 $ENDCMP
 #
+$CMP 12pF_CER_0603_50V
+D CAP CER 12PF 50V C0G 0603
+K cap capacitor
+F ~
+$ENDCMP
+#
 $CMP 18pF_CER_0603_50V
 D CAP CER SMD 0603 18PF 10% X7R 50
 K cap capacitor

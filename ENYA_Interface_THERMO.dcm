@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31850_TDFN_3x4
+D IC CONV THRMCPLE-DIG K TYPE TDFN
+K Cold Junction Termocouple Interface 1-Wire
+F https://datasheets.maximintegrated.com/en/ds/MAX31850-MAX31851.pdf
+$ENDCMP
+#
+#End Doc Library
