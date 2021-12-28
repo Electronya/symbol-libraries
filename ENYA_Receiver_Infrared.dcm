@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TSOP75338WTT
-D SENSOR REMOTE REC 38.0KHZ 30M
-K ir, ir receiver
-F http://www.vishay.com/docs/82497/tsop753w.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 2N3904-AP
-D TRANS NPN 40V 0.2A TO92
-K NPN Transistor
-F https://www.mccsemi.com/pdf/Products/2N3904(TO-92).pdf
-$ENDCMP
-#
-#End Doc Library

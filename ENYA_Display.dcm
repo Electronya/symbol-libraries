@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP OLED_128X64_MONO_CONN
-D CONN HDR 20POS 0.1 TIN PCB
-K OLED 128x64 monochrome
-F https://media.digikey.com/pdf/Data%20Sheets/Sullins%20PDFs/Female_Headers.100_DS.pdf
-$ENDCMP
-#
-#End Doc Library

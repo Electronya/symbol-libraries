@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 3.3uH_SHLD_9.2A_8.64Lx8.18Wx4H
-D FIXED IND 3.3UH 9.2A 17.7 MOHM
-K inductor choke coil reactor magnetic
-F http://www.vishay.com/docs/34316/ihlp-3232dz-01.pdf
-$ENDCMP
-#
-#End Doc Library

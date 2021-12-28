@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MINI_USB_OTG
-D USB mini/micro connector
-K connector USB
-F https://www.molex.com/pdm_docs/sd/513870530_sd.pdf
-$ENDCMP
-#
-#End Doc Library

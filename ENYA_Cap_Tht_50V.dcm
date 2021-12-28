@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 100nF_CER_5.08Lx3.18Wx5.84H_50V
-D CAP CER 0.1UF 50V X7R RADIAL
-K cap, capacitor, ceramic
-F ~
-$ENDCMP
-#
-#End Doc Library

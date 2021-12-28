@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 1nF_CER_1206_2kV
-D CAP CER 1000PF 2KV X7R 1206
-K cap, capacitor, cer
-F ~
-$ENDCMP
-#
-#End Doc Library

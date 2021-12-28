@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 74LVC1G07_SOT353
-D IC BUF NON-INVERT 5.5V SOT353
-K Single Gate Buff LVC CMOS Open Drain
-F https://www.diodes.com/assets/Datasheets/74LVC1G07.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 100UF_ELEC_6.3Dx8H_16V
-D CAP ALUM 100UF 20% 16V RADIAL
-K cap capacitor
-F ~
-$ENDCMP
-#
-#End Doc Library

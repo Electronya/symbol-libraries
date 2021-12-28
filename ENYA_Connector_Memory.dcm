@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP DM3AT-SF-PEJM5_microSD
-D CONN MICRO SD CARD PUSH-PUSH R/A
-K connector SD microsd
-F https://www.hirose.com/product/document?clcode=CL0609-0033-6-00&productname=DM3AT-SF-PEJ2M5&series=DM3&documenttype=Catalog&lang=en&documentid=D49662_en
-$ENDCMP
-#
-#End Doc Library
