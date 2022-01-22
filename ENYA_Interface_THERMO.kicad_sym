@@ -6,7 +6,7 @@
     (property "Value" "MAX31850_TDFN_3x4" (id 1) (at 1.27 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "" (id 2) (at 25.4 -8.89 0)
+    (property "Footprint" "ENYA_Package_DFN_QFN:DFN-10-1EP_4x3mm_P0.5mm_EP2.6x2.3mm" (id 2) (at 25.4 -8.89 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX31850-MAX31851.pdf" (id 3) (at 0 0 0)
