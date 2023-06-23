@@ -9,7 +9,7 @@
     (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "L:\\JudeBake\\Datasheet\\EEPROM" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.onsemi.com/pdf/datasheet/cat24c32-d.pdf" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "ON Semiconductor" (id 4) (at 0 0 0)
